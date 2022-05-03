@@ -1,0 +1,7 @@
+started stdio logging in file
+Mirror launched on Mon, 25 Apr 2022 10:04:39 by HTTrack Website Copier/3.49-2 [XR&CO'2014]
+mirroring https://www.americanas.com.br/produto/117966044?pfm_carac=geladeira-brastemp-410l&pfm_page=search&pfm_pos=grid&pfm_type=search_page&offerId=5972ab0a1f09073c7e42fae1&buyboxToken=smartbuybox-acom-v2-f2e2aa6b-b488-425d-935b-223b7f8f875d-2022-04-25%2009%3A54%3A51-0300&voltagem=220V +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar with the wizard help..
+Done.
+Thanks for using HTTrack!
+status code 0, 1 errors, 3 warnings
+building top index to /storage/emulated/0/HTTrack/Websites/ using templates /storage/emulated/0/Android/data/com.httrack.android/cache/resources/

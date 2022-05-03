@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+americanas.com.br	TRUE	/	FALSE	1999999999	MobileOptOut	1
+americanas.com.br	TRUE	/	FALSE	1999999999	b2wDevice	eyJvcyI6IiIsIm9zVmVyc2lvbiI6IiIsInZlbmRvciI6IiIsInR5cGUiOiJkZXNrdG9wIiwibWt0TmFtZSI6IiIsIm1vZGVsIjoiIiwibW9iaWxlT3B0T3V0IjoiZmFsc2UifQ==
+americanas.com.br	TRUE	/	FALSE	1999999999	b2wDeviceType	desktop
+.americanas.com.br	TRUE	/	FALSE	1999999999	searchTestAB	out
+.americanas.com.br	TRUE	/	FALSE	1999999999	catalogTestAB	out
+.americanas.com.br	TRUE	/	FALSE	1999999999	B2W-IU	false
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-lat	-23.95
+.americanas.com.br	TRUE	/	FALSE	1999999999	b2wChannel	ACOM
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-long	-46.33
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-country	BR
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-region	SP
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-city	SANTOS
+
